@@ -2,13 +2,13 @@
     "id": "info-circle",
     "type": "image/svg+xml",
     "description": "the letter 'i' in a circle used for tooltips etc",
-    "url": "https://eu-central-1.console.aws.amazon.com/buckets/e45ffe3/info.circle.svg",
+    "url": "https://raw.githubusercontent.com/schwolf/designtoken-repo/main/info-circle.svg",
     "lastchanged": "2021-04-18T11:59:40Z"
 },
 {
     "id": "styling-global",
     "type": "application/json",
     "description": "contains styling meta data such as font sizes, colors etc.",
-    "url": "https://eu-central-1.console.aws.amazon.com/buckets/e45ffe3/styling-global.json",
+    "url": "https://raw.githubusercontent.com/schwolf/designtoken-repo/main/styling-global.json",
     "lastchanged": "2021-04-18T11:59:40Z"
 }]
