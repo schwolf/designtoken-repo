@@ -1,0 +1,24 @@
+{
+    "palette": {
+        "darkMode": {
+            "primary": "#4791db",
+            "secondary": "#e33371",
+            "error": "#e57373",
+            "warning": "#ffb74d"
+        },
+        "lightMode": {
+            "primary": "#115293",
+            "secondary": "#9a0036",
+            "error": "#d32f2f",
+            "warning": "#f57c00"
+        }
+    },
+    "typography": {
+        "fontFamily": ["Arial", "Roboto"],
+        "fontSize": {
+            "heading1": 16,
+            "heading2": 14,
+            "paragraph": 9
+        }
+    }
+}
